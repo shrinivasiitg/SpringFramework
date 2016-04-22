@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.main&apos; to &apos;com.tutorialspoint&apos;&#x0A;- Original project: &apos;HelloSpring&apos;&#x0A;- Original element: &apos;HelloSpring/src/com.main&apos;&#x0A;- Renamed element: &apos;HelloSpring/src/com.tutorialspoint&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.main&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.main" name="com.tutorialspoint" qualified="false" references="true" stamp="1432991446592" textual="false" version="1.0"/>
+</session>
